@@ -30,3 +30,36 @@ function determineConverter (clickEvent) {
 
 // Assign a function to be executed when the button is clicked
 button.addEventListener("click", determineConverter);
+
+//Notes from August 1st (1st Class Back)
+Converter Exercise
+
+1. Create Files
+    1. index.html - DONE
+    2. converter.js - DONE
+    3. style.css - DONE
+    4. readme.md - DONE
+2. Github repo/link files
+3. basic html
+4. even listeners —> button click
+    1. Do this after HTML is done
+5. get value from input
+6. which radio button is selected?
+7. MATH!
+8. Answer to DOM
+9. Colors (problems 7 -9)
+
+Problem: convert temp C -> F, F -> C
+
+Steps
+1. Type in Temp
+2. Click on unit system
+3. click on submit
+4. calculate conversion
+5. write answer to DOM
+
+What to Research?
+1. Click Events
+    1. Make the event listener work first, console log it. 
+2. How to get value out of input
+3. Conversion formula
