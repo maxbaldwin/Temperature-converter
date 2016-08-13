@@ -39,8 +39,8 @@ Converter Exercise
     2. converter.js - DONE
     3. style.css - DONE
     4. readme.md - DONE
-2. Github repo/link files
-3. basic html
+2. Github repo/link files - DONE
+3. basic html - DONE
 4. even listeners —> button click
     1. Do this after HTML is done
 5. get value from input
